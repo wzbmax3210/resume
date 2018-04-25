@@ -68,7 +68,7 @@
 ## 技能清单
 以下均为我熟练使用的技能
 
-- Web开发：PHP/HTML/JavaScript/
+- Web开发：PHP/HTML/JavaScript/Shell
 - Web框架：ZendFramework
 - 前端框架：ExtJs
 - 数据库相关：MySQL
