@@ -39,7 +39,7 @@
 - Web开发：HTML/CSS/JavaScript/PHP/Shell
 - 前端框架：Vue.js+Vuex+Vue router/ExtJs/JQuery/Echarts
 - 数据库相关：MySQL
-- 版本管理、文档和自动化部署工具：Svn/Npm
+- 版本管理、文档和自动化部署工具：Svn/Npm/Webpack
 - 缓存：Redis
 
 # 个人优势
